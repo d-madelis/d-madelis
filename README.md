@@ -1,17 +1,14 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="./assets/A_GitHub_README_profile_page_showcases_Dimitris_Ma.png" alt="Profile Banner" width="100%"/>
-</p>
 
 # Hello there 👋
 
 Hi! I’m **Dimitris Madelis**, a Geophysicist from Greece turned Data & Code enthusiast.  
-With a strong foundation in geophysics and a passion for programming, here’s a quick peek at what I bring to the table:
+With expertise in geophysics and a passion for programming, here’s a quick peek at what I bring to the table:
 
-| ![](https://img.icons8.com/color/48/000000/python--v1.png) **Python & Linux** | ![](https://img.icons8.com/color/48/000000/artificial-intelligence.png) **Machine Learning** | ![](https://img.icons8.com/color/48/000000/data-sheet.png) **Data Analysis** |
+| <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="48" height="48"/> **Python** | <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="Machine Learning" width="48" height="48"/> **Machine Learning** | <img src="https://cdn-icons-png.flaticon.com/512/2801/2801091.png" alt="Data Science" width="48" height="48"/> **Data Science** |
 |:---:|:---:|:---:|
 
 ---
+
 
 ### 🔭 I’m currently working on
 Electromagnetic & CPT Data Fusion  
@@ -53,7 +50,6 @@ Python, MATLAB, Linux, Fortran
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"                                            alt="SQL" title="SQL" width="48" height="48"/>
 </p>
 
-
 ---
 
 
@@ -64,8 +60,8 @@ Python, MATLAB, Linux, Fortran
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-madelis&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
 </p>
 
-
 ---
+
 
 ## 📖 About Me
 
@@ -83,6 +79,21 @@ I’m a **M.Sc. candidate in Applied Geophysics & Seismology** at Aristotle Univ
 - 📝 Published work on high-frequency seismic attenuation and field-array analysis.  
 
 When I’m not coding or plotting, you’ll find me exploring **open-source tools**, contributing to **geo-data projects**, or enjoying a good **coffee ☕**.
+
+---
+
+
+## 📄 Resume
+
+<p align="center">
+  <a href="./assets/Dimitris_Madelis_CV.pdf" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1870/1870080.png" alt="Download CV" width="48" height="48"/>
+    <br/>
+    <strong>Download My CV (PDF)</strong>
+  </a>
+</p>
+
+A quick overview of my background and experience is in the full CV—feel free to download and take a look!
 
 ---
 
