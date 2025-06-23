@@ -66,9 +66,9 @@ Python, MATLAB, Linux, Fortran
 ## 📖 About Me
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/6229/6229743.png" alt="Geophysics Icon" width="96" height="96"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/6509/6509613.png" alt="Coding Icon" width="96" height="96"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/8618/8618881.png" alt="Machine Learning Icon" width="96" height="96"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/6229/6229743.png" alt="Geophysics Icon" width="80" height="80"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/6509/6509613.png" alt="Coding Icon" width="80" height="80"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/8618/8618881.png" alt="Machine Learning Icon" width="80" height="80"/>
 </p>
 
 I’m a **M.Sc. candidate in Applied Geophysics & Seismology** at Aristotle University of Thessaloniki. Over the past years, I’ve:
