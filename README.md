@@ -24,7 +24,7 @@ Open-Source Machine-Learning Projects
 
 ### 🤝 I’m looking for help with
 Data Science & Data Engineering  
-*Scalable ETL, cloud deployments, and production-grade pipelines.*
+*ETL/ELT Pipeline Design, Data Ingestion, Pipeline Orchestration & Monitoring.*
 
 ### 💬 Ask me about
 Python, MATLAB, Linux, Fortran  
