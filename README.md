@@ -30,10 +30,6 @@ Data Science & Data Engineering
 Python, MATLAB, Linux, Fortran  
 *(and geophysical software like Geosoft, Geopsy, RES2DINV…)*
 
-### 📫 How to reach me
-✉️ madelisdimitris4@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/dimitrios-madelis-800ba3215)
-
 ---
 
 
